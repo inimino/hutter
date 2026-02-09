@@ -25,6 +25,7 @@ Most experiments use enwik9: http://mattmahoney.net/dc/enwik9.zip
 
 | Commit | Experiment | Archive |
 |--------|-----------|---------|
+| `f808449` | Pattern priors, skip-patterns, weight construction | [20260207](https://cmpr.ai/hutter/archive/20260207/) |
 | `8ce5e5f` | SN visibility (full W_hh + UM comparison + calibration) | [20260207](https://cmpr.ai/hutter/archive/20260207/) |
 | `23a9427` | Saturation + pattern chains | [20260206](https://cmpr.ai/hutter/archive/20260206/) |
 | `160190b` | Bayes from table | [20260131_6](https://cmpr.ai/hutter/archive/20260131_6/) |
