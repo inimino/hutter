@@ -25,6 +25,7 @@ Most experiments use enwik9: http://mattmahoney.net/dc/enwik9.zip
 
 | Commit | Experiment | Archive |
 |--------|-----------|---------|
+| `89b0664` | KN scaling: byte KN to 1.784 bpc on full enwik9, zero structure | [20260212](https://cmpr.ai/hutter/archive/20260212/) |
 | `efbaac3` | Weight construction + ES isomorphism: all 82k params from data, 1.89 bpc | [20260211](https://cmpr.ai/hutter/archive/20260211/) |
 | `86fbef8` | Total interpretation: 128-bit Boolean automaton (Q1-Q7), 11 tools | [20260211](https://cmpr.ai/hutter/archive/20260211/) |
 | `74ddb51` | Pattern chains: factor map, reverse isomorphism, viewer | [20260208](https://cmpr.ai/hutter/archive/20260208/) |
